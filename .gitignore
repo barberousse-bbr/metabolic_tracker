@@ -1,0 +1,38 @@
+# === PYTHON ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyo
+*.pyd
+*.pyc
+
+# === LATEX / PANDOC ===
+*.aux
+*.log
+*.toc
+*.out
+*.tex
+
+# === MACOS ===
+.DS_Store
+*.textClipping
+
+# === IDE / Éditeurs ===
+.vscode/
+.idea/
+
+# === TEMPORAIRES ===
+*.tmp
+*~
+*.bak
+
+# === TESTS ===
+.coverage
+htmlcov/
+.cache/
+.pytest_cache/
+
+# == Environnement ==
+venv/
+# data/metabo_data.csv
+.streamlit/secrets.toml
