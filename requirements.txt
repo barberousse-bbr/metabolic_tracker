@@ -1,0 +1,9 @@
+# === Actuels ===
+streamlit
+pandas
+plotly
+
+# === Futurs ===
+python-dateutil
+matplotlib
+numpy
